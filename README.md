@@ -1,2 +1,4 @@
 # 1042-class-folders
-Course Materials for ITSE-1042 at Austin Community College.
+Austin Community College - Intermediate Python
+Course Materials for ITSE-1042   
+http://continue.austincc.edu/schedule/courses?name=Intermediate%20Python   
